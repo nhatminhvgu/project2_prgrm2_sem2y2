@@ -1,0 +1,10 @@
+1,Laptop,Electronics,999.99,10
+2,Wireless Headphones,Electronics,79.99,25
+3,Running Shoes,Sports,59.99,50
+4,Python Programming Book,Books,39.99,30
+5,Coffee Maker,Kitchen,49.99,15
+6,Yoga Mat,Sports,29.99,40
+7,C++ Textbook,Books,49.99,20
+8,Smartphone,Electronics,699.99,8
+9,Blender,Kitchen,39.99,12
+10,Basketball,Sports,24.99,35
